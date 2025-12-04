@@ -598,9 +598,9 @@ open Mathematical_Formulation.pdf
 
 ### Related Publications
 
-- **Grand Unified Theory of Coherence** (2024) - [The Experiment](https://thexperiment.tiiny.site)
-- **AGI Dancer Protocol** (2024) - [GitHub](https://github.com/Albuslux1/AGI-Protocol-v1.0)
-- **Bollinger-Kerr Drive** (2024) - [GitHub](https://github.com/Albuslux1/Bollinger-Kerr-Drive)
+- **Grand Unified Theory of Coherence** (2025) - [The Experiment](https://thexperiment.tiiny.site)
+- **AGI Dancer Protocol** (2025) - [GitHub](https://github.com/Albuslux1/AGI-Protocol-v1.0)
+- **Bollinger-Kerr Drive** (2025) - [GitHub](https://github.com/Albuslux1/Bollinger-Kerr-Drive)
 
 ---
 
@@ -641,6 +641,6 @@ This framework builds on:
 
 ---
 
-*Last Updated: December 2024*  
+*Last Updated: December 2025*  
 *Framework #4 of 9 in the Bollinger Coherence Architecture*  
 *"Sepsis is decoherence. Treatment is restoring harmony."*
